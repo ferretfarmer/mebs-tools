@@ -117,3 +117,183 @@
         ]
     }
 ]
+    {
+        "name": "Birth Plan Card Game",
+        "title": "Birth Plan Card Game",
+        "cardColorOne": "#ffffff",
+        "cardColorTwo": "#F9928F",
+        "cardColorThree": "#C5E0B3",
+        "cards": [
+            {
+                "text": "Healthy baby and parent!!!!"
+            },
+            {
+                "text": "Push how you want when you have the urge "
+            },
+            {
+                "text": "Valsalva push as directed by provider (hold breath, count to 10)"
+            },
+            {
+                "text": "Walk and move around as you chose"
+            },
+            {
+                "text": "Labor only in bed"
+            },
+            {
+                "text": "Vaginal birth"
+            },
+            {
+                "text": "Cesarean birth"
+            },
+            {
+                "text": "Epidural"
+            },
+            {
+                "text": "No epidural"
+            },
+            {
+                "text": "Laughing gas"
+            },
+            {
+                "text": "No laughing gas"
+            },
+            {
+                "text": "No fentanyl in labor"
+            },
+            {
+                "text": "Fentanyl in labor"
+            },
+            {
+                "text": "Morphine in early labor"
+            },
+            {
+                "text": "No morphone in early labor"
+            },
+            {
+                "text": "Labor starts on its own"
+            },
+            {
+                "text": "Medical induction"
+            },
+            {
+                "text": "Forceps or vacuume"
+            },
+            {
+                "text": "No forceps or vacuum"
+            },
+            {
+                "text": "Eat and drink as desired"
+            },
+            {
+                "text": "Clear liquids only"
+            },
+            {
+                "text": "Breast/chestfeed as soon as baby cues"
+            },
+            {
+                "text": "Breast/chestfeed after parent rests and/or routine newborn measurements/cleaning"
+            },
+            {
+                "text": "Pitocin to augment labor"
+            },
+            {
+                "text": "No pitocin to augment labor"
+            },
+            {
+                "text": "Access to tub/shower"
+            },
+            {
+                "text": "No access to tub/shower"
+            },
+            {
+                "text": "Your care provider"
+            },
+            {
+                "text": "Care provider on call"
+            },
+            {
+                "text": "Doula/additional support people"
+            },
+            {
+                "text": "One support person"
+            },
+            {
+                "text": "Episiotomy"
+            },
+            {
+                "text": "No episiotomy"
+            },
+            {
+                "text": "Water/membranes break on their own"
+            },
+            {
+                "text": "Provider breaks water/membranes"
+            },
+            {
+                "text": "Intermittent fetal monitoring"
+            },
+            {
+                "text": "Continuous fetal monitoring"
+            },
+            {
+                "text": "Immediate cord clamping"
+            },
+            {
+                "text": "Delayed cord clamping"
+            },
+            {
+                "text": "Early labor at home"
+            },
+            {
+                "text": "Early labor at hospital"
+            },
+            {
+                "text": "Stay at home as long as possible"
+            },
+            {
+                "text": "Go to birthplace as soon as possible"
+            },
+            {
+                "text": "Birth at home/birth center"
+            },
+            {
+                "text": "Birth at hospital"
+            },
+            {
+                "text": "Midwife/General Practitioner"
+            },
+            {
+                "text": "Obstetrician"
+            },
+            {
+                "text": "Wear a hospital gown"
+            },
+            {
+                "text": "Wear your own clothing"
+            },
+            {
+                "text": "Baby placed immediately on your skin"
+            },
+            {
+                "text": "Baby cleaned up before contact"
+            },
+            {
+                "text": "Heparin lock/IV port"
+            },
+            {
+                "text": "No heparin lock/IV port"
+            },
+            {
+                "text": "Birth in the position of your choosing"
+            },
+            {
+                "text": "Birth in the position your provider chooses"
+            },
+            {
+                "text": "Active management of 3rd stage/pitocin to deliver placenta"
+            },
+            {
+                "text": "No active management of 3rd stage/pitocin to deliver placenta"
+            }
+        ]
+    }
