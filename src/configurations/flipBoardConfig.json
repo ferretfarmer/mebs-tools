@@ -72,22 +72,30 @@
         ]
     },
      {
-        "name": "sports",
-        "title": "Sports Board",
-        "cardBackgroundColorFront": "#78d0bb",
-        "cardBackgroundColorBack": "#737373",
+        "name": "birththingy",
+        "title": "More Birth",
+        "cardBackgroundColorFront": "red",
+        "cardBackgroundColorBack": "green",
         "cards": [
             {
-                "frontText": "a",
-                "backText": "b"
+                "frontText": "a1",
+                "backText": "b1"
             },
-            {
-                "frontText": "1",
-                "backText": "2"
+                        {
+                "frontText": "a2",
+                "backText": "b2"
             },
-            {
-                "frontText": "hello",
-                "backText": "goodbye"
+                        {
+                "frontText": "a2",
+                "backText": "b2"
+            },
+                        {
+                "frontText": "a3",
+                "backText": "b3"
+            },
+                        {
+                "frontText": "a4",
+                "backText": "b4"
             }
         ]
     }
