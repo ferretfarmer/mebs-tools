@@ -166,7 +166,7 @@
                 "text": "Morphine in early labor"
             },
             {
-                "text": "No morphone in early labor"
+                "text": "No morphine in early labor"
             },
             {
                 "text": "Labor starts on its own"
@@ -175,7 +175,7 @@
                 "text": "Medical induction"
             },
             {
-                "text": "Forceps or vacuume"
+                "text": "Forceps or vacuum"
             },
             {
                 "text": "No forceps or vacuum"
@@ -292,7 +292,8 @@
                 "text": "Active management of 3rd stage/pitocin to deliver placenta"
             },
             {
-                "text": "No active management of 3rd stage/pitocin to deliver placenta"
+                "text": "No active management of 3rd stage/no pitocin to deliver placenta"
             }
         ]
     }
+  ]
