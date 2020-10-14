@@ -41,239 +41,227 @@
             },
             {
                 "text": "Leaking Fluid"
-            },
-            {
-                "text": "Cramping"
-            },
-            {
-                "text": "Nausea"
             }
-        ]
+	    ]
     },
-     {
-        "name": "Planning your prenatals",
-        "title": "Planning your prenatals",
-        "cardBackgroundColor": "#78d0bb",
-        "categories": [
-            {
-                "title": "Intake form",
-                "description": "AFTER you are hired but BEFORE you meet"
-            },
-            {
-                "title": "Prenatal Mtg #1",
-            },
-            {
-                "title": "Prenatal Mtg #2",
-            },
-            {
-                "title": "I wouldn't ask this",
-            }
-        ],
-        "cards": [
-            {
-                "text": "How was your day?"
-            },
-            {
-                "text": "How is work?"
-            },
-            {
-                "text": "Is there anything about your general health or health history that I should know?"
-            },
-            {
-                "text": "Is there anything about this pregnancy/conception that would be helpful for me to know?"
-            },
-            {
-                "text": "Is there anything about previous pregnancies that would be helpful for me to know or that you'd like me to know?"
-            },
-            {
-                "text": "Tell me about your vision for this birth"
-            },
-            {
-                "text": "What are your priorities for this birth?"
-            },
-            {
-                "text": "What do you do for comfort when you are sick or in pain?"
-            },
-            {
-                "text": "What do you think will help most with the pain of labor?"
-            },
-            {
-                "text": "What are you doing to learn about/prepare for labor?"
-            },
-            {
-                "text": "Have you practiced any pain coping techniques in a class or at home??"
-            },
-            {
-                "text": "How do you prefer to learn new things?"
-            },
-            {
-                "text": "What things from your past do you think will help you most in labor?"
-            },
-            {
-                "text": "How have you been learning about parenting (books, videos, family)?"
-            },
-            {
-                "text": "Have you ever been to or seen a birth??"
-            },
-            {
-                "text": "What do you think has helped you most prepare for this birth?"
-            },
-            {
-                "text": "How has this pregnancy been so far?"
-            },
-            {
-                "text": "What has stood out to you about what you have learned about pregnancy/labor/parenting?"
-            },
-            {
-                "text": "What are your concerns or fears about this birth?"
-            },
-            {
-                "text": "Are you planning on joining any new parenting groups?"
-            },
-            {
-                "text": "What kind of parenting support do you have?"
-            },
-            {
-                "text": "Will there be anyone else at your birth? Who are they and how would you like them to participate?"
-            },
-            {
-                "text": "Do you have any special needs I can help with?"
-            },
-            {
-                "text": "Have you ever stayed or been in a hospital before?"
-            },
-            {
-                "text": "How have you coped with stress in the past?"
-            },
-            {
-                "text": "How would you like me to help you in labor?"
-            },
-            {
-                "text": "What are your preferences for pain management?"
-            },
-            {
-                "text": "How do you like to get new information for decision making?"
-            },
-            {
-                "text": "Do you like lots of information, or just the need-to-know stuff?"
-            },
-            {
-                "text": "Do you tend to prefer home remedies or what a doctor recommends?"
-            },
-            {
-                "text": "Do you tend to try to prevent things from going wrong or wait and see how things go before doign something?"
-            },
-            {
-                "text": "When you are are going to take a medicine, do think more about side effects or the good things the medicine will do?"
-            },
-            {
-                "text": "How would you like to be supported when making decisions in labor?"
-            },
-            {
-                "text": "Let's talk about how/when you should contact me?"
-            },
-            {
-                "text": "Let me tell you about my backup arrangements?"
-            },
-            {
-                "text": "Would you like me to take photos at your birth? How modest should those be?"
-            },
-            {
-                "text": "Do you know where to park/get dropped off at your birthplace and how to get in after hours?"
-            },
-            {
-                "text": "Have you written a birth plan?"
-            },
-            {
-                "text": "What would I notice if you were getting overwhelemed?"
-            },
-            {
-                "text": "Do you have a code word for requesting pain medications?"
-            },
-            {
-                "text": "How are visits with your provider going?"
-            },
-            {
-                "text": "How would you like your partner(s) to support you in labor?"
-            },
-            {
-                "text": "How do you function with little sleep? What is your plan for getting sleep when baby arrives?"
-            },
-            {
-                "text": "How do you planning on feeding your baby?"
-            },
-            {
-                "text": "Tell me about your vision for the first minutes, hours, and days with your new baby."
-            },
-            {
-                "text": "What do you imagine doing at home during early labor?"
-            },
-            {
-                "text": "What kind of help do you have for after the baby is born?"
-            },
-            {
-                "text": "Do you have any concerns about taking care of a new baby?"
-            },
-            {
-                "text": "Do you have any concerns about your recovery period?"
-            },
-            {
-                "text": "How do you feel about touch? Arethere places you do not want to be touched??"
-            },
-            {
-                "text": "What is your plan for siblings/pets while you are in labor?"
-            },
-            {
-                "text": "What foods/drinks do you think will be good in labor?"
-            },
-            {
-                "text": "How much time off from work do you have after the baby arrives?"
-            },
-            {
-                "text": "How much time will your partner/support people have at home with you after baby arrives?"
-            },
-            {
-                "text": "How did you choose your care provider?"
-            },
-            {
-                "text": "Let's talk about the 'what ifs' What would be important to you to experience/feel even if (cesarean, epidural, etc)?"
-            },
-            {
-                "text": "Have you chosen a care provider for your baby?"
-            },
-            {
-                "text": "How do you want to feel after your baby is born?"
-            },
-            {
-                "text": "Have you decided about newborn care procedures (hepatitis B vaccine, erythromycin, vitamin K, bathign baby)??"
-            },
-            {
-                "text": "If there were an emergency, is there anyone you would like me to contact (religious person, family member)?"
-            },
-            {
-                "text": "What do you need to know/hear/do feel good about having a cesarean birth??"
-            },
-            {
-                "text": "What would you need to know/here/do to feel good about being induced?"
-            },
-            {
-                "text": "Partner, how would you like to feel after baby is born?"
-            },
-            {
-                "text": "What else should I kow that we haven't discussed?"
-            },
-            {
-                "text": "If your baby were to need NICU care, who should stay with you and who should go with the baby?"
-            },
-            {
-                "text": "Doyou or your partner want to cut the umbilical cord or catch the baby?"
-            },
-            {
-                "text": "What do you think will help most with the pain of labor?"
-            },
-            {
-                "text": "What do you think will help most with the pain of labor?"
-            },
-        ]
-    }
+    {
+		"name": "Planning your prenatals",
+		"title": "Planning your prenatals",
+		"cardBackgroundColor": "#78d0bb",
+		"categories": [
+            {
+				"title": "Intake form",
+				"description": "AFTER you are hired but BEFORE you meet"
+			},
+			{
+				"title": "Prenatal Mtg #1"
+			},
+			{
+				"title": "Prenatal Mtg #2"
+			},
+			{
+				"title": "I wouldn't ask this"
+			}
+		],
+		"cards": [
+            {
+				"text": "How was your day?"
+			},
+			{
+				"text": "How is work?"
+			},
+			{
+				"text": "Is there anything about your general health or health history that I should know?"
+			},
+			{
+				"text": "Is there anything about this pregnancy/conception that would be helpful for me to know?"
+			},
+			{
+				"text": "Is there anything about previous pregnancies that would be helpful for me to know or that you'd like me to know?"
+			},
+			{
+				"text": "Tell me about your vision for this birth"
+			},
+			{
+				"text": "What are your priorities for this birth?"
+			},
+			{
+				"text": "What do you do for comfort when you are sick or in pain?"
+			},
+			{
+				"text": "What do you think will help most with the pain of labor?"
+			},
+			{
+				"text": "What are you doing to learn about/prepare for labor?"
+			},
+			{
+				"text": "Have you practiced any pain coping techniques in a class or at home??"
+			},
+			{
+				"text": "How do you prefer to learn new things?"
+			},
+			{
+				"text": "What things from your past do you think will help you most in labor?"
+			},
+			{
+				"text": "How have you been learning about parenting (books, videos, family)?"
+			},
+			{
+				"text": "Have you ever been to or seen a birth??"
+			},
+			{
+				"text": "What do you think has helped you most prepare for this birth?"
+			},
+			{
+				"text": "How has this pregnancy been so far?"
+			},
+			{
+				"text": "What has stood out to you about what you have learned about pregnancy/labor/parenting?"
+			},
+			{
+				"text": "What are your concerns or fears about this birth?"
+			},
+			{
+				"text": "Are you planning on joining any new parenting groups?"
+			},
+			{
+				"text": "What kind of parenting support do you have?"
+			},
+			{
+				"text": "Will there be anyone else at your birth? Who are they and how would you like them to participate?"
+			},
+			{
+				"text": "Do you have any special needs I can help with?"
+			},
+			{
+				"text": "Have you ever stayed or been in a hospital before?"
+			},
+			{
+				"text": "How have you coped with stress in the past?"
+			},
+			{
+				"text": "How would you like me to help you in labor?"
+			},
+			{
+				"text": "What are your preferences for pain management?"
+			},
+			{
+				"text": "How do you like to get new information for decision making?"
+			},
+			{
+				"text": "Do you like lots of information, or just the need-to-know stuff?"
+			},
+			{
+				"text": "Do you tend to prefer home remedies or what a doctor recommends?"
+			},
+			{
+				"text": "Do you tend to try to prevent things from going wrong or wait and see how things go before doign something?"
+			},
+			{
+				"text": "When you are are going to take a medicine, do think more about side effects or the good things the medicine will do?"
+			},
+			{
+				"text": "How would you like to be supported when making decisions in labor?"
+			},
+			{
+				"text": "Let's talk about how/when you should contact me?"
+			},
+			{
+				"text": "Let me tell you about my backup arrangements?"
+			},
+			{
+				"text": "Would you like me to take photos at your birth? How modest should those be?"
+			},
+			{
+				"text": "Do you know where to park/get dropped off at your birthplace and how to get in after hours?"
+			},
+			{
+				"text": "Have you written a birth plan?"
+			},
+			{
+				"text": "What would I notice if you were getting overwhelemed?"
+			},
+			{
+				"text": "Do you have a code word for requesting pain medications?"
+			},
+			{
+				"text": "How are visits with your provider going?"
+			},
+			{
+				"text": "How would you like your partner(s) to support you in labor?"
+			},
+			{
+				"text": "How do you function with little sleep? What is your plan for getting sleep when baby arrives?"
+			},
+			{
+				"text": "How do you planning on feeding your baby?"
+			},
+			{
+				"text": "Tell me about your vision for the first minutes, hours, and days with your new baby."
+			},
+			{
+				"text": "What do you imagine doing at home during early labor?"
+			},
+			{
+				"text": "What kind of help do you have for after the baby is born?"
+			},
+			{
+				"text": "Do you have any concerns about taking care of a new baby?"
+			},
+			{
+				"text": "Do you have any concerns about your recovery period?"
+			},
+			{
+				"text": "How do you feel about touch? Arethere places you do not want to be touched??"
+			},
+			{
+				"text": "What is your plan for siblings/pets while you are in labor?"
+			},
+			{
+				"text": "What foods/drinks do you think will be good in labor?"
+			},
+			{
+				"text": "How much time off from work do you have after the baby arrives?"
+			},
+			{
+				"text": "How much time will your partner/support people have at home with you after baby arrives?"
+			},
+			{
+				"text": "How did you choose your care provider?"
+			},
+			{
+				"text": "Let's talk about the 'what ifs' What would be important to you to experience/feel even if (cesarean, epidural, etc)?"
+			},
+			{
+				"text": "Have you chosen a care provider for your baby?"
+			},
+			{
+				"text": "How do you want to feel after your baby is born?"
+			},
+			{
+				"text": "Have you decided about newborn care procedures (hepatitis B vaccine, erythromycin, vitamin K, bathign baby)??"
+			},
+			{
+				"text": "If there were an emergency, is there anyone you would like me to contact (religious person, family member)?"
+			},
+			{
+				"text": "What do you need to know/hear/do feel good about having a cesarean birth??"
+			},
+			{
+				"text": "What would you need to know/here/do to feel good about being induced?"
+			},
+			{
+				"text": "Partner, how would you like to feel after baby is born?"
+			},
+			{
+				"text": "What else should I kow that we haven't discussed?"
+			},
+			{
+				"text": "If your baby were to need NICU care, who should stay with you and who should go with the baby?"
+			},
+			{
+				"text": "Doyou or your partner want to cut the umbilical cord or catch the baby?"
+			}
+		]
+	}
 ]
