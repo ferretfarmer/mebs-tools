@@ -50,13 +50,16 @@
 				"description": "AFTER you are hired but BEFORE you meet"
 			},
 			{
-				"title": "Prenatal Mtg #1"
+				"title": "Prenatal Mtg #1",
+				"description": ""
 			},
 			{
-				"title": "Prenatal Mtg #2"
+				"title": "Prenatal Mtg #2",
+				"description": ""
 			},
 			{
-				"title": "I wouldn't ask this"
+				"title": "I wouldn't ask this",
+				"description": ""
 			}
 		],
 		"cards": [{
